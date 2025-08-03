@@ -38,7 +38,7 @@ Problems randomly occur and increase with the number of panels. Inactive panels 
 Clone or download this repository, then run the main Python file:
 
 ```bash
-python "# Define variables.py"
+python "SolarTycoon.py"
 ```
 
 ## Contributing
@@ -47,4 +47,5 @@ Contributions are welcome! Feel free to submit issues, suggestions, or pull requ
 
 ## License
 You don't need a license it's open source lol.
+
 So that means you can do whatever you want with it, you can copy it for ANY REASON.
